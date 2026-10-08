@@ -3,7 +3,7 @@
 Exemplo de execução do experimento usado no relatório:
 
     python gerar_dataset.py
-    python trabalho4.py --sample-per-topic 80 --output-dir resultados
+    python trabalho4.py --sample-per-topic 400 --batch-size 8 --output-dir resultados
 
 Para indexar as 100.000 frases, use ``--sample-per-topic 0``. Em CPU, o BGE-M3
 é demorado; os embeddings são salvos em cache e reaproveitados nas execuções.
@@ -241,7 +241,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, default=Path("resultados"))
     parser.add_argument("--cache-dir", type=Path, default=Path(".cache_embeddings"))
     parser.add_argument(
-        "--sample-per-topic", type=int, default=80,
+        "--sample-per-topic", type=int, default=400,
         help="0 usa as 100 mil frases; N seleciona N frases de cada tópico.",
     )
     parser.add_argument("--batch-size", type=int, default=16)

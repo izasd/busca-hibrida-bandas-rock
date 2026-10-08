@@ -1,10 +1,10 @@
 {
   "corpus_total": 100000,
-  "corpus_experimento": 1000,
-  "sample_per_topic": 40,
-  "bm25_segundos": 0.030177399999956833,
-  "bge-m3_indexacao_segundos": 110.32762430000002,
-  "bge-m3_consultas_segundos": 1.1486470999989251,
-  "minilm_indexacao_segundos": 11.236024899999393,
-  "minilm_consultas_segundos": 0.13668399999914982
+  "corpus_experimento": 10000,
+  "sample_per_topic": 400,
+  "bm25_segundos": 0.34463549999964016,
+  "bge-m3_indexacao_segundos": 1139.9233503000014,
+  "bge-m3_consultas_segundos": 1.0666768999999476,
+  "minilm_indexacao_segundos": 107.30482970000048,
+  "minilm_consultas_segundos": 0.1154791999997542
 }

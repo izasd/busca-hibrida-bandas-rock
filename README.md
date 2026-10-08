@@ -36,10 +36,10 @@ Gerar novamente o corpus:
 python gerar_dataset.py
 ```
 
-Reproduzir o benchmark entregue, com 40 frases por tópico (1.000 no total):
+Reproduzir o benchmark entregue, com 400 frases por tópico (10.000 no total):
 
 ```powershell
-python trabalho4.py --sample-per-topic 40 --batch-size 8 --output-dir resultados
+python trabalho4.py --sample-per-topic 400 --batch-size 8 --output-dir resultados
 ```
 
 Executar nas 100.000 frases:
