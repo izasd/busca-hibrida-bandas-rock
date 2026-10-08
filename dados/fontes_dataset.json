@@ -1,0 +1,28 @@
+{
+  "tipo": "frases sintéticas em forma de pergunta",
+  "bandas_reais": [
+    "The Beatles",
+    "Queen",
+    "Led Zeppelin",
+    "Black Sabbath",
+    "The Rolling Stones",
+    "Pink Floyd",
+    "Nirvana",
+    "Metallica",
+    "AC/DC",
+    "U2",
+    "Radiohead",
+    "Foo Fighters",
+    "Sepultura",
+    "Legião Urbana",
+    "Titãs",
+    "Os Paralamas do Sucesso",
+    "Os Mutantes",
+    "Barão Vermelho",
+    "The Clash",
+    "Ramones"
+  ],
+  "observacao": "As frases não afirmam fatos biográficos sobre as bandas; os nomes são entidades reais e os tópicos indicam a intenção da pergunta.",
+  "combinacao": "25 tópicos × 20 bandas × 4 variantes temáticas × 5 formas de entidade × 10 estruturas de pergunta",
+  "licenca": "Texto gerado pelo script deste trabalho; não é reprodução de biografias."
+}

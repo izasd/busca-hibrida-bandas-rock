@@ -1,0 +1,719 @@
+[L01] formação e origem da banda
+Tópico esperado: formacao
+  BM25
+    1. ✓ [formacao] Onde localizar referências de formação e origem sobre a trajetória da banda Pink Floyd?
+    2. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    3. ✓ [formacao] Como localizar referências de formação e origem que citem a banda U2?
+    4. ✓ [formacao] Quais aspectos de formação e origem aparecem em materiais sobre Led Zeppelin?
+    5. ✓ [formacao] Há registros sobre formação e origem que mencionam o conjunto musical Ramones?
+  bge-m3
+    1. ✓ [formacao] Há registros sobre como o grupo começou que mencionam a trajetória da banda Black Sabbath?
+    2. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    3. ✓ [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    4. ✓ [formacao] Quais aspectos de formação e origem aparecem em materiais sobre Led Zeppelin?
+    5. ✓ [formacao] O que se pode pesquisar sobre formação e origem quando o tema é o conjunto musical Foo Fighters?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [formacao] Quais aspectos de formação e origem aparecem em materiais sobre Led Zeppelin?
+    2. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    3. ✓ [formacao] Onde localizar referências de formação e origem sobre a trajetória da banda Pink Floyd?
+    4. ✓ [formacao] O que se pode pesquisar sobre formação e origem quando o tema é o conjunto musical Foo Fighters?
+    5. ✓ [formacao] Como localizar referências de formação e origem que citem a banda U2?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    2. ✓ [formacao] Quais aspectos de formação e origem aparecem em materiais sobre Led Zeppelin?
+    3. ✓ [formacao] Onde localizar referências de formação e origem sobre a trajetória da banda Pink Floyd?
+    4. ✓ [formacao] Como localizar referências de formação e origem que citem a banda U2?
+    5. ✓ [formacao] Há registros sobre formação e origem que mencionam o conjunto musical Ramones?
+  minilm
+    1. × [album_estreia] Que informações existem sobre a trajetória da banda Barão Vermelho no assunto disco inicial do grupo?
+    2. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    3. ✓ [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    4. × [guitarra] Que informações existem sobre a trajetória da banda Metallica no assunto instrumentos de corda da banda?
+    5. ✓ [formacao] O que se pode pesquisar sobre história de formação quando o tema é a banda Barão Vermelho?
+  RRF BM25+minilm (k=60)
+    1. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    2. ✓ [formacao] O que se pode pesquisar sobre história de formação quando o tema é a banda Barão Vermelho?
+    3. × [baixo] Que informações existem sobre a trajetória da banda Barão Vermelho no assunto baixistas e linhas de baixo?
+    4. ✓ [formacao] O que se pode pesquisar sobre história de formação quando o tema é a banda Queen?
+    5. ✓ [formacao] Como localizar referências de formação e origem que citem a banda U2?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [formacao] Que fontes tratam de formação e origem ao abordar a trajetória da banda Metallica?
+    2. ✓ [formacao] Como localizar referências de formação e origem que citem a banda U2?
+    3. ✓ [formacao] Onde localizar referências de formação e origem sobre a trajetória da banda Pink Floyd?
+    4. ✓ [formacao] Há registros sobre formação e origem que mencionam o conjunto musical Ramones?
+    5. ✓ [formacao] Quais aspectos de formação e origem aparecem em materiais sobre Led Zeppelin?
+
+[L02] vocalista e vocais do grupo
+Tópico esperado: vocalista
+  BM25
+    1. ✓ [vocalista] Quais aspectos de vocais e seus intérpretes aparecem em materiais sobre Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre Metallica?
+    3. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre a banda Metallica e vocais e seus intérpretes?
+    4. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+    5. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+  bge-m3
+    1. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Que informações existem sobre o grupo Queen no assunto quem canta no grupo?
+    3. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+    4. ✓ [vocalista] O que se pode pesquisar sobre vozes associadas à banda quando o tema é The Rolling Stones?
+    5. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [vocalista] Quais aspectos de vocais e seus intérpretes aparecem em materiais sobre Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+    3. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre Metallica?
+    4. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+    5. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre a banda Metallica e vocais e seus intérpretes?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [vocalista] Quais aspectos de vocais e seus intérpretes aparecem em materiais sobre Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre Metallica?
+    3. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+    4. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+    5. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre a banda Metallica e vocais e seus intérpretes?
+  minilm
+    1. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Onde localizar referências de função dos vocalistas sobre a trajetória da banda Sepultura?
+    3. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Barão Vermelho e quem canta no grupo?
+    4. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    5. ✓ [vocalista] O que se pode pesquisar sobre vozes associadas à banda quando o tema é a banda Sepultura?
+  RRF BM25+minilm (k=60)
+    1. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+    2. ✓ [vocalista] Quais aspectos de vocais e seus intérpretes aparecem em materiais sobre Os Paralamas do Sucesso?
+    3. ✓ [vocalista] Que perguntas podem orientar uma pesquisa de vocais e seus intérpretes sobre a trajetória da banda Barão Vermelho?
+    4. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+    5. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre Metallica?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [vocalista] Quais aspectos de vocais e seus intérpretes aparecem em materiais sobre Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Há registros sobre vocais e seus intérpretes que mencionam a banda The Clash?
+    3. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre Metallica?
+    4. ✓ [vocalista] Onde localizar referências de vocais e seus intérpretes sobre o conjunto musical The Clash?
+    5. ✓ [vocalista] Que perguntas podem orientar uma pesquisa de vocais e seus intérpretes sobre a trajetória da banda Barão Vermelho?
+
+[L03] álbum de estreia da banda
+Tópico esperado: album_estreia
+  BM25
+    1. ✓ [album_estreia] Onde localizar referências de álbum de estreia sobre The Rolling Stones?
+    2. ✓ [album_estreia] Como localizar referências de álbum de estreia que citem a trajetória da banda Os Mutantes?
+    3. ✓ [album_estreia] Onde localizar referências de estreia em álbum sobre AC/DC?
+    4. ✓ [album_estreia] Como localizar referências de estreia em álbum que citem a banda Ramones?
+    5. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+  bge-m3
+    1. ✓ [album_estreia] Há registros sobre disco inicial do grupo que mencionam a trajetória da banda The Beatles?
+    2. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+    3. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    4. ✓ [album_estreia] Há registros sobre disco inicial do grupo que mencionam AC/DC?
+    5. ✓ [album_estreia] O que se pode pesquisar sobre álbum de estreia quando o tema é a banda Queen?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [album_estreia] Onde localizar referências de álbum de estreia sobre The Rolling Stones?
+    2. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    3. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+    4. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o conjunto musical Ramones?
+    5. ✓ [album_estreia] Como localizar referências de álbum de estreia que citem a trajetória da banda Os Mutantes?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    2. ✓ [album_estreia] Onde localizar referências de álbum de estreia sobre The Rolling Stones?
+    3. ✓ [album_estreia] Onde localizar referências de estreia em álbum sobre AC/DC?
+    4. ✓ [album_estreia] Como localizar referências de álbum de estreia que citem a trajetória da banda Os Mutantes?
+    5. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+  minilm
+    1. ✓ [album_estreia] O que se pode pesquisar sobre álbum de estreia quando o tema é a banda Queen?
+    2. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de álbum de estreia sobre a banda Metallica?
+    3. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+    4. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    5. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Barão Vermelho no assunto disco inicial do grupo?
+  RRF BM25+minilm (k=60)
+    1. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de álbum de estreia sobre a banda Metallica?
+    2. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    3. ✓ [album_estreia] O que se pode pesquisar sobre álbum de estreia quando o tema é a banda Queen?
+    4. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+    5. ✓ [album_estreia] Como localizar referências de álbum de estreia que citem a trajetória da banda Os Mutantes?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de álbum de estreia sobre a banda Metallica?
+    2. ✓ [album_estreia] Há registros sobre álbum de estreia que mencionam o grupo Nirvana?
+    3. ✓ [album_estreia] Que informações existem sobre a trajetória da banda Sepultura no assunto estreia em álbum?
+    4. ✓ [album_estreia] O que se pode pesquisar sobre álbum de estreia quando o tema é a banda Queen?
+    5. ✓ [album_estreia] Como localizar referências de álbum de estreia que citem a trajetória da banda Os Mutantes?
+
+[L04] turnê e apresentações da banda
+Tópico esperado: turne
+  BM25
+    1. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Nirvana e viagens para apresentações?
+    2. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Sepultura e apresentações em diferentes cidades?
+    3. × [festival] Que resultados de busca podem apresentar informações sobre The Clash e apresentações em festivais?
+    4. × [festival] Que resultados de busca podem apresentar informações sobre o grupo Pink Floyd e apresentações em festivais?
+    5. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda Nirvana?
+  bge-m3
+    1. × [festival] Há registros sobre eventos musicais da banda que mencionam a trajetória da banda The Beatles?
+    2. ✓ [turne] Que informações existem sobre o conjunto musical Titãs no assunto viagens para apresentações?
+    3. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [turne] Que informações existem sobre a trajetória da banda Foo Fighters no assunto atividade de shows?
+    5. ✓ [turne] Quais aspectos de turnês e excursões aparecem em materiais sobre o grupo Metallica?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Sepultura e apresentações em diferentes cidades?
+    3. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Nirvana e viagens para apresentações?
+    4. ✓ [turne] Que informações existem sobre o conjunto musical Titãs no assunto viagens para apresentações?
+    5. ✓ [turne] Que fontes tratam de viagens para apresentações ao abordar a banda Led Zeppelin?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Sepultura e apresentações em diferentes cidades?
+    2. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Nirvana e viagens para apresentações?
+    3. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [turne] Que informações existem sobre o conjunto musical Titãs no assunto viagens para apresentações?
+    5. ✓ [turne] Que fontes tratam de viagens para apresentações ao abordar a banda Led Zeppelin?
+  minilm
+    1. ✓ [turne] Quais aspectos de turnês e excursões aparecem em materiais sobre o grupo Metallica?
+    2. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda U2?
+    3. ✓ [turne] Que perguntas podem orientar uma pesquisa de viagens para apresentações sobre a banda Barão Vermelho?
+    4. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    5. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda Nirvana?
+  RRF BM25+minilm (k=60)
+    1. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda U2?
+    2. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda Nirvana?
+    3. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Nirvana e viagens para apresentações?
+    5. ✓ [turne] Que perguntas podem orientar uma pesquisa de viagens para apresentações sobre a banda Barão Vermelho?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Nirvana e viagens para apresentações?
+    2. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Sepultura e apresentações em diferentes cidades?
+    3. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda U2?
+    4. × [festival] Quais aspectos de apresentações em festivais aparecem em materiais sobre a trajetória da banda Nirvana?
+    5. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+
+[L05] festivais de música da banda
+Tópico esperado: festival
+  BM25
+    1. ✓ [festival] Que fontes tratam de festivais de música ao abordar The Beatles?
+    2. ✓ [festival] Que fontes tratam de festivais de música ao abordar o conjunto musical Queen?
+    3. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    4. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    5. ✓ [festival] Que resultados de busca podem apresentar informações sobre a banda Sepultura e festivais de música?
+  bge-m3
+    1. ✓ [festival] Como localizar referências de apresentações em festivais que citem o grupo Radiohead?
+    2. ✓ [festival] O que se pode pesquisar sobre apresentações em festivais quando o tema é a banda AC/DC?
+    3. ✓ [festival] Como localizar referências de participação em festivais que citem a trajetória da banda Pink Floyd?
+    4. ✓ [festival] Onde localizar referências de participação em festivais sobre AC/DC?
+    5. ✓ [festival] Como localizar referências de participação em festivais que citem a trajetória da banda The Beatles?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    2. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    3. ✓ [festival] Que fontes tratam de festivais de música ao abordar The Beatles?
+    4. ✓ [festival] Que dados ajudam a estudar festivais de música em conteúdos sobre a trajetória da banda Pink Floyd?
+    5. ✓ [festival] Como localizar referências de participação em festivais que citem a trajetória da banda Pink Floyd?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [festival] Que fontes tratam de festivais de música ao abordar The Beatles?
+    2. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    3. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    4. ✓ [festival] Que dados ajudam a estudar festivais de música em conteúdos sobre a trajetória da banda Pink Floyd?
+    5. ✓ [festival] Que resultados de busca podem apresentar informações sobre a banda Sepultura e festivais de música?
+  minilm
+    1. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    2. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre Os Paralamas do Sucesso?
+    3. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    4. ✓ [festival] Que resultados de busca podem apresentar informações sobre a banda Sepultura e festivais de música?
+    5. ✓ [festival] Que fontes tratam de festivais de música ao abordar o conjunto musical Queen?
+  RRF BM25+minilm (k=60)
+    1. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    2. ✓ [festival] Que fontes tratam de festivais de música ao abordar o conjunto musical Queen?
+    3. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    4. ✓ [festival] Que fontes tratam de festivais de música ao abordar The Beatles?
+    5. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre Os Paralamas do Sucesso?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre o grupo Metallica?
+    2. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre Os Paralamas do Sucesso?
+    3. ✓ [festival] Que fontes tratam de festivais de música ao abordar The Beatles?
+    4. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+    5. ✓ [festival] Que resultados de busca podem apresentar informações sobre a banda Sepultura e festivais de música?
+
+[L06] crítica musical e resenhas dos discos
+Tópico esperado: critica
+  BM25
+    1. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    2. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    3. ✓ [critica] Como localizar referências de resenhas dos discos que citem o grupo Legião Urbana?
+    4. ✓ [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    5. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre a banda Pink Floyd?
+  bge-m3
+    1. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    2. ✓ [critica] Que informações existem sobre o conjunto musical The Rolling Stones no assunto crítica musical?
+    3. ✓ [critica] Que informações existem sobre a banda Queen no assunto crítica musical?
+    4. ✓ [critica] Há registros sobre crítica musical que mencionam a banda Pink Floyd?
+    5. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    2. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    3. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    4. ✓ [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    5. ✓ [critica] Como localizar referências de resenhas dos discos que citem o grupo Legião Urbana?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    2. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    3. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    4. ✓ [critica] Como localizar referências de resenhas dos discos que citem o grupo Legião Urbana?
+    5. ✓ [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+  minilm
+    1. ✓ [critica] Que fontes tratam de crítica musical ao abordar a banda Metallica?
+    2. ✓ [critica] Que dados ajudam a estudar crítica musical em conteúdos sobre o grupo Barão Vermelho?
+    3. ✓ [critica] Há registros sobre crítica musical que mencionam a trajetória da banda The Clash?
+    4. ✓ [critica] O que se pode pesquisar sobre crítica musical quando o tema é o grupo Foo Fighters?
+    5. × [influencia] O que se pode pesquisar sobre influência sobre outros músicos quando o tema é o grupo Os Paralamas do Sucesso?
+  RRF BM25+minilm (k=60)
+    1. ✓ [critica] Que fontes tratam de crítica musical ao abordar a banda Metallica?
+    2. ✓ [critica] Que resultados de busca podem apresentar informações sobre o conjunto musical Legião Urbana e crítica musical?
+    3. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    4. ✓ [critica] Que dados ajudam a estudar crítica musical em conteúdos sobre o grupo Barão Vermelho?
+    5. ✓ [critica] Há registros sobre crítica musical que mencionam a trajetória da banda The Clash?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    2. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre a banda Pink Floyd?
+    3. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    4. ✓ [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    5. ✓ [critica] Como localizar referências de resenhas dos discos que citem o grupo Legião Urbana?
+
+[L07] vendas e certificações de discos
+Tópico esperado: vendas
+  BM25
+    1. ✓ [vendas] Onde localizar referências de vendas de discos sobre Led Zeppelin?
+    2. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    3. ✓ [vendas] Onde localizar referências de vendas de discos sobre a banda The Clash?
+    4. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    5. ✓ [vendas] Quais aspectos de vendas de discos aparecem em materiais sobre o grupo Legião Urbana?
+  bge-m3
+    1. ✓ [vendas] Onde localizar referências de vendas de discos sobre Led Zeppelin?
+    2. ✓ [vendas] O que se pode pesquisar sobre certificações musicais quando o tema é The Beatles?
+    3. ✓ [vendas] Que informações existem sobre Metallica no assunto certificações musicais?
+    4. ✓ [vendas] Quais aspectos de vendas de discos aparecem em materiais sobre o grupo Legião Urbana?
+    5. ✓ [vendas] O que se pode pesquisar sobre certificações musicais quando o tema é Led Zeppelin?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [vendas] Onde localizar referências de vendas de discos sobre Led Zeppelin?
+    2. ✓ [vendas] Quais aspectos de vendas de discos aparecem em materiais sobre o grupo Legião Urbana?
+    3. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    4. ✓ [vendas] Onde localizar referências de vendas de discos sobre a banda The Clash?
+    5. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [vendas] Onde localizar referências de vendas de discos sobre Led Zeppelin?
+    2. ✓ [vendas] Quais aspectos de vendas de discos aparecem em materiais sobre o grupo Legião Urbana?
+    3. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    4. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    5. ✓ [vendas] Onde localizar referências de vendas de discos sobre a banda The Clash?
+  minilm
+    1. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    2. ✓ [vendas] Há registros sobre certificações musicais que mencionam Barão Vermelho?
+    3. ✓ [vendas] O que se pode pesquisar sobre certificações musicais quando o tema é a banda Radiohead?
+    4. ✓ [vendas] Que fontes tratam de certificações musicais ao abordar U2?
+    5. ✓ [vendas] O que se pode pesquisar sobre certificações musicais quando o tema é The Beatles?
+  RRF BM25+minilm (k=60)
+    1. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    2. ✓ [vendas] Que fontes tratam de certificações musicais ao abordar U2?
+    3. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    4. ✓ [vendas] Há registros sobre certificações musicais que mencionam Barão Vermelho?
+    5. ✓ [vendas] Que informações existem sobre Metallica no assunto certificações musicais?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    2. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    3. ✓ [vendas] Quais aspectos de vendas de discos aparecem em materiais sobre o grupo Legião Urbana?
+    4. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    5. ✓ [vendas] Que fontes tratam de certificações musicais ao abordar U2?
+
+[L08] bandas do rock brasileiro
+Tópico esperado: rock_brasileiro
+  BM25
+    1. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre a banda Led Zeppelin?
+    3. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical Radiohead?
+    4. ✓ [rock_brasileiro] Que informações existem sobre o conjunto musical U2 no assunto rock brasileiro?
+    5. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical The Rolling Stones?
+  bge-m3
+    1. ✓ [rock_brasileiro] Que fontes tratam de bandas brasileiras de rock ao abordar a banda AC/DC?
+    2. ✓ [rock_brasileiro] Que fontes tratam de bandas brasileiras de rock ao abordar a banda Led Zeppelin?
+    3. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    4. ✓ [rock_brasileiro] Que informações existem sobre o grupo U2 no assunto bandas brasileiras de rock?
+    5. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o conjunto musical Metallica?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre a banda Led Zeppelin?
+    2. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical The Rolling Stones?
+    3. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    5. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical Radiohead?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre a banda Led Zeppelin?
+    3. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical Radiohead?
+    4. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical The Rolling Stones?
+    5. ✓ [rock_brasileiro] Que informações existem sobre o conjunto musical U2 no assunto rock brasileiro?
+  minilm
+    1. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    2. ✓ [rock_brasileiro] Onde localizar referências de bandas brasileiras de rock sobre a banda Sepultura?
+    3. ✓ [rock_brasileiro] Que perguntas podem orientar uma pesquisa de bandas brasileiras de rock sobre a banda The Clash?
+    4. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o conjunto musical Metallica?
+    5. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+  RRF BM25+minilm (k=60)
+    1. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    3. ✓ [rock_brasileiro] Onde localizar referências de bandas brasileiras de rock sobre a banda Sepultura?
+    4. ✓ [rock_brasileiro] Que fontes tratam de rock brasileiro ao abordar a trajetória da banda Nirvana?
+    5. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o conjunto musical Metallica?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre o conjunto musical Radiohead?
+    3. ✓ [rock_brasileiro] Que fontes tratam de rock brasileiro ao abordar a trajetória da banda Nirvana?
+    4. ✓ [rock_brasileiro] Onde localizar referências de rock brasileiro sobre a banda Led Zeppelin?
+    5. ✓ [rock_brasileiro] Que perguntas podem orientar uma pesquisa de rock brasileiro sobre o grupo Ramones?
+
+[S01] como os integrantes se conheceram e iniciaram o grupo
+Tópico esperado: formacao
+  BM25
+    1. × [reuniao] Como localizar referências de reuniões de integrantes que citem o grupo Os Mutantes?
+    2. × [reuniao] Onde localizar referências de reuniões de integrantes sobre o grupo Os Mutantes?
+    3. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    4. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    5. × [publico] Como localizar referências de público e os fãs que citem a banda Os Paralamas do Sucesso?
+  bge-m3
+    1. ✓ [formacao] Há registros sobre como o grupo começou que mencionam a trajetória da banda Black Sabbath?
+    2. ✓ [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    3. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    4. ✓ [formacao] Quais aspectos de como o grupo começou aparecem em materiais sobre o grupo The Rolling Stones?
+    5. ✓ [formacao] Há registros sobre como o grupo começou que mencionam Ramones?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    2. ✓ [formacao] Como localizar referências de como o grupo começou que citem o conjunto musical Os Paralamas do Sucesso?
+    3. ✓ [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    4. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    5. × [reuniao] Que informações existem sobre a banda The Beatles no assunto reuniões de integrantes?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    2. × [reuniao] Como localizar referências de reuniões de integrantes que citem o grupo Os Mutantes?
+    3. ✓ [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    4. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    5. ✓ [formacao] Como localizar referências de como o grupo começou que citem o conjunto musical Os Paralamas do Sucesso?
+  minilm
+    1. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    2. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    3. ✓ [formacao] Que perguntas podem orientar uma pesquisa de como o grupo começou sobre a trajetória da banda Foo Fighters?
+    4. ✓ [formacao] Que perguntas podem orientar uma pesquisa de como o grupo começou sobre a banda Foo Fighters?
+    5. × [reuniao] Quais aspectos de reuniões de integrantes aparecem em materiais sobre a banda Barão Vermelho?
+  RRF BM25+minilm (k=60)
+    1. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    2. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    3. × [reuniao] Como localizar referências de reuniões de integrantes que citem o grupo Os Mutantes?
+    4. × [reuniao] Onde localizar referências de reuniões de integrantes sobre o grupo Os Mutantes?
+    5. × [reuniao] Que dados ajudam a estudar reuniões de integrantes em conteúdos sobre o grupo Metallica?
+  Média BM25+minilm (0,5/0,5)
+    1. × [reuniao] Como localizar referências de reuniões de integrantes que citem o grupo Os Mutantes?
+    2. × [reuniao] Há registros sobre reuniões de integrantes que mencionam o grupo Os Paralamas do Sucesso?
+    3. × [reuniao] Onde localizar referências de reuniões de integrantes sobre o grupo Os Mutantes?
+    4. ✓ [formacao] O que se pode pesquisar sobre como o grupo começou quando o tema é a trajetória da banda Os Mutantes?
+    5. × [reuniao] Que dados ajudam a estudar reuniões de integrantes em conteúdos sobre o grupo Metallica?
+
+[S02] quem interpreta as canções e lidera a voz
+Tópico esperado: vocalista
+  BM25
+    1. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Nirvana e quem canta no grupo?
+    2. × [letras] Onde localizar referências de palavras e histórias das canções sobre a banda Titãs?
+    3. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Barão Vermelho e quem canta no grupo?
+    4. × [letras] Que fontes tratam de palavras e histórias das canções ao abordar Sepultura?
+    5. × [letras] Que resultados de busca podem apresentar informações sobre a trajetória da banda AC/DC e palavras e histórias das canções?
+  bge-m3
+    1. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    2. ✓ [vocalista] Que informações existem sobre o grupo Queen no assunto quem canta no grupo?
+    3. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    4. ✓ [vocalista] Que dados ajudam a estudar quem canta no grupo em conteúdos sobre o conjunto musical Sepultura?
+    5. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Nirvana e quem canta no grupo?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Nirvana e quem canta no grupo?
+    2. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    3. ✓ [vocalista] Que informações existem sobre o grupo Queen no assunto quem canta no grupo?
+    4. ✓ [vocalista] Como localizar referências de quem canta no grupo que citem a banda The Beatles?
+    5. ✓ [vocalista] Que dados ajudam a estudar quem canta no grupo em conteúdos sobre o conjunto musical Sepultura?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [vocalista] Que informações existem sobre o grupo Queen no assunto quem canta no grupo?
+    2. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Nirvana e quem canta no grupo?
+    3. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    4. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    5. ✓ [vocalista] Que dados ajudam a estudar quem canta no grupo em conteúdos sobre o conjunto musical Sepultura?
+  minilm
+    1. ✓ [vocalista] Que fontes tratam de função dos vocalistas ao abordar o conjunto musical Led Zeppelin?
+    2. ✓ [vocalista] O que se pode pesquisar sobre vozes associadas à banda quando o tema é a banda Sepultura?
+    3. ✓ [vocalista] O que se pode pesquisar sobre função dos vocalistas quando o tema é Led Zeppelin?
+    4. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    5. ✓ [vocalista] Que perguntas podem orientar uma pesquisa de quem canta no grupo sobre o conjunto musical Queen?
+  RRF BM25+minilm (k=60)
+    1. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Barão Vermelho e quem canta no grupo?
+    2. ✓ [vocalista] Que perguntas podem orientar uma pesquisa de quem canta no grupo sobre o conjunto musical Queen?
+    3. ✓ [vocalista] O que se pode pesquisar sobre quem canta no grupo quando o tema é Os Paralamas do Sucesso?
+    4. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    5. ✓ [vocalista] Que dados ajudam a estudar quem canta no grupo em conteúdos sobre o conjunto musical Sepultura?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Barão Vermelho e quem canta no grupo?
+    2. ✓ [vocalista] Que resultados de busca podem apresentar informações sobre o conjunto musical Nirvana e quem canta no grupo?
+    3. ✓ [vocalista] Que informações existem sobre a banda Titãs no assunto quem canta no grupo?
+    4. ✓ [vocalista] Que perguntas podem orientar uma pesquisa de quem canta no grupo sobre o conjunto musical Queen?
+    5. × [letras] Que fontes tratam de palavras e histórias das canções ao abordar Sepultura?
+
+[S03] qual foi o primeiro trabalho longo lançado pelo conjunto
+Tópico esperado: album_estreia
+  BM25
+    1. × [premio] Como localizar referências de homenagens recebidas pelo grupo que citem o conjunto musical Barão Vermelho?
+    2. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    3. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de primeiro disco da carreira sobre o conjunto musical Ramones?
+    4. × [premio] Que resultados de busca podem apresentar informações sobre o conjunto musical Sepultura e homenagens recebidas pelo grupo?
+    5. × [premio] Que resultados de busca podem apresentar informações sobre o conjunto musical AC/DC e homenagens recebidas pelo grupo?
+  bge-m3
+    1. × [formacao] Há registros sobre como o grupo começou que mencionam o conjunto musical Os Paralamas do Sucesso?
+    2. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    3. ✓ [album_estreia] Quais aspectos de disco inicial do grupo aparecem em materiais sobre a trajetória da banda Led Zeppelin?
+    4. ✓ [album_estreia] Que dados ajudam a estudar disco inicial do grupo em conteúdos sobre o conjunto musical Pink Floyd?
+    5. ✓ [album_estreia] Onde localizar referências de disco inicial do grupo sobre o conjunto musical Foo Fighters?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    2. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre o grupo AC/DC?
+    3. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de primeiro disco da carreira sobre o conjunto musical Ramones?
+    4. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre a banda Sepultura?
+    5. ✓ [album_estreia] Que informações existem sobre o grupo The Beatles no assunto primeiro disco da carreira?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    2. ✓ [album_estreia] Que perguntas podem orientar uma pesquisa de primeiro disco da carreira sobre o conjunto musical Ramones?
+    3. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre o grupo AC/DC?
+    4. ✓ [album_estreia] Há registros sobre primeiro disco da carreira que mencionam Sepultura?
+    5. × [premio] Como localizar referências de homenagens recebidas pelo grupo que citem o conjunto musical Barão Vermelho?
+  minilm
+    1. ✓ [album_estreia] Há registros sobre primeiro disco da carreira que mencionam Sepultura?
+    2. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre o grupo AC/DC?
+    3. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre a banda Sepultura?
+    4. ✓ [album_estreia] O que se pode pesquisar sobre primeiro disco da carreira quando o tema é a trajetória da banda Barão Vermelho?
+    5. × [gravacao] Quais aspectos de processo de gravação aparecem em materiais sobre Os Paralamas do Sucesso?
+  RRF BM25+minilm (k=60)
+    1. ✓ [album_estreia] Há registros sobre primeiro disco da carreira que mencionam Sepultura?
+    2. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    3. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre o grupo AC/DC?
+    4. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre a banda Sepultura?
+    5. ✓ [album_estreia] O que se pode pesquisar sobre primeiro disco da carreira quando o tema é a trajetória da banda Barão Vermelho?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [album_estreia] Há registros sobre primeiro disco da carreira que mencionam Sepultura?
+    2. ✓ [album_estreia] Que fontes tratam de primeiro disco da carreira ao abordar o conjunto musical Barão Vermelho?
+    3. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre o grupo AC/DC?
+    4. ✓ [album_estreia] Quais aspectos de primeiro disco da carreira aparecem em materiais sobre a banda Sepultura?
+    5. ✓ [album_estreia] O que se pode pesquisar sobre primeiro disco da carreira quando o tema é a trajetória da banda Barão Vermelho?
+
+[S04] viagens para tocar em cidades diferentes
+Tópico esperado: turne
+  BM25
+    1. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    2. ✓ [turne] Como localizar referências de apresentações em diferentes cidades que citem Titãs?
+    3. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar Legião Urbana?
+    4. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o grupo Titãs?
+    5. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre o conjunto musical Titãs?
+  bge-m3
+    1. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [turne] Como localizar referências de viagens para apresentações que citem o conjunto musical Pink Floyd?
+    3. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    4. ✓ [turne] Que informações existem sobre o conjunto musical Titãs no assunto viagens para apresentações?
+    5. ✓ [turne] Que perguntas podem orientar uma pesquisa de viagens para apresentações sobre Metallica?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    2. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    3. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o conjunto musical Sepultura?
+    4. ✓ [turne] Como localizar referências de viagens para apresentações que citem o conjunto musical Pink Floyd?
+    5. ✓ [turne] Quais aspectos de viagens para apresentações aparecem em materiais sobre o grupo U2?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    2. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    3. ✓ [turne] Como localizar referências de apresentações em diferentes cidades que citem Titãs?
+    4. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o conjunto musical Sepultura?
+    5. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre o conjunto musical Titãs?
+  minilm
+    1. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [turne] Que perguntas podem orientar uma pesquisa de viagens para apresentações sobre a banda Barão Vermelho?
+    3. ✓ [turne] O que se pode pesquisar sobre turnês e excursões quando o tema é a trajetória da banda Radiohead?
+    4. ✓ [turne] Que resultados de busca podem apresentar informações sobre a trajetória da banda Sepultura e apresentações em diferentes cidades?
+    5. ✓ [turne] Que perguntas podem orientar uma pesquisa de apresentações em diferentes cidades sobre Os Paralamas do Sucesso?
+  RRF BM25+minilm (k=60)
+    1. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar Legião Urbana?
+    2. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    3. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o conjunto musical Sepultura?
+    5. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre o conjunto musical Titãs?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [turne] Há registros sobre apresentações em diferentes cidades que mencionam Radiohead?
+    2. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar Legião Urbana?
+    3. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [turne] Onde localizar referências de apresentações em diferentes cidades sobre o conjunto musical Titãs?
+    5. ✓ [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o conjunto musical Sepultura?
+
+[S05] eventos musicais com vários artistas no mesmo local
+Tópico esperado: festival
+  BM25
+    1. ✓ [festival] Que informações existem sobre o grupo Led Zeppelin no assunto eventos musicais da banda?
+    2. ✓ [festival] Que informações existem sobre o conjunto musical Nirvana no assunto eventos musicais da banda?
+    3. ✓ [festival] Que fontes tratam de eventos musicais da banda ao abordar Metallica?
+    4. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam a banda Titãs?
+    5. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam o grupo Titãs?
+  bge-m3
+    1. × [turne] Onde localizar referências de atividade de shows sobre o conjunto musical The Clash?
+    2. ✓ [festival] Como localizar referências de participação em festivais que citem o conjunto musical The Clash?
+    3. × [turne] Onde localizar referências de atividade de shows sobre o conjunto musical Queen?
+    4. × [turne] Onde localizar referências de apresentações em diferentes cidades sobre o conjunto musical Titãs?
+    5. ✓ [festival] Que informações existem sobre o conjunto musical Nirvana no assunto eventos musicais da banda?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [festival] Que informações existem sobre o conjunto musical Nirvana no assunto eventos musicais da banda?
+    2. ✓ [festival] Que informações existem sobre o grupo Led Zeppelin no assunto eventos musicais da banda?
+    3. ✓ [festival] Como localizar referências de eventos musicais da banda que citem The Rolling Stones?
+    4. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam a banda Titãs?
+    5. ✓ [festival] Que fontes tratam de eventos musicais da banda ao abordar Metallica?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [festival] Que informações existem sobre o conjunto musical Nirvana no assunto eventos musicais da banda?
+    2. ✓ [festival] Que informações existem sobre o grupo Led Zeppelin no assunto eventos musicais da banda?
+    3. ✓ [festival] Como localizar referências de eventos musicais da banda que citem The Rolling Stones?
+    4. ✓ [festival] Que fontes tratam de eventos musicais da banda ao abordar Metallica?
+    5. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam a banda Titãs?
+  minilm
+    1. ✓ [festival] Quais aspectos de festivais de música aparecem em materiais sobre Os Paralamas do Sucesso?
+    2. × [turne] Que fontes tratam de apresentações em diferentes cidades ao abordar o conjunto musical Sepultura?
+    3. ✓ [festival] Que fontes tratam de festivais de música ao abordar o conjunto musical Queen?
+    4. × [rock_alternativo] Que resultados de busca podem apresentar informações sobre o conjunto musical Os Paralamas do Sucesso e cena de música alternativa?
+    5. ✓ [festival] Como localizar referências de festivais de música que citem o grupo The Clash?
+  RRF BM25+minilm (k=60)
+    1. ✓ [festival] Que dados ajudam a estudar eventos musicais da banda em conteúdos sobre a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam a banda Titãs?
+    3. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam o grupo Titãs?
+    4. × [critica] Há registros sobre avaliação de jornalistas musicais que mencionam o conjunto musical Sepultura?
+    5. ✓ [festival] Que fontes tratam de eventos musicais da banda ao abordar Metallica?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam o grupo Titãs?
+    2. ✓ [festival] Há registros sobre eventos musicais da banda que mencionam a banda Titãs?
+    3. ✓ [festival] Que fontes tratam de eventos musicais da banda ao abordar Metallica?
+    4. ✓ [festival] Que informações existem sobre o conjunto musical Nirvana no assunto eventos musicais da banda?
+    5. ✓ [festival] Que dados ajudam a estudar eventos musicais da banda em conteúdos sobre Ramones?
+
+[S06] o que jornalistas especializados acharam dos discos
+Tópico esperado: critica
+  BM25
+    1. × [gravacao] Como localizar referências de produção dos discos que citem o grupo Nirvana?
+    2. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    3. × [gravacao] Há registros sobre produção dos discos que mencionam o grupo AC/DC?
+    4. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    5. ✓ [critica] Como localizar referências de resenhas dos discos que citem o grupo Legião Urbana?
+  bge-m3
+    1. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    2. ✓ [critica] Quais aspectos de recepção da imprensa especializada aparecem em materiais sobre a banda Sepultura?
+    3. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    4. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar The Clash?
+    5. ✓ [critica] Há registros sobre avaliação de jornalistas musicais que mencionam a trajetória da banda Queen?
+  RRF BM25+bge-m3 (k=60)
+    1. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    2. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    3. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    4. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar The Clash?
+    5. × [gravacao] Quais aspectos de produção dos discos aparecem em materiais sobre o conjunto musical Metallica?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    2. ✓ [critica] Quais aspectos de resenhas dos discos aparecem em materiais sobre a trajetória da banda Pink Floyd?
+    3. ✓ [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+    4. ✓ [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    5. × [gravacao] Que fontes tratam de produção dos discos ao abordar a banda Legião Urbana?
+  minilm
+    1. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar The Clash?
+    2. ✓ [critica] Que dados ajudam a estudar avaliação de jornalistas musicais em conteúdos sobre o grupo The Clash?
+    3. ✓ [critica] Há registros sobre avaliação de jornalistas musicais que mencionam o grupo The Clash?
+    4. ✓ [critica] O que se pode pesquisar sobre avaliação de jornalistas musicais quando o tema é a banda Sepultura?
+    5. ✓ [critica] O que se pode pesquisar sobre recepção da imprensa especializada quando o tema é a banda Barão Vermelho?
+  RRF BM25+minilm (k=60)
+    1. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar The Clash?
+    2. ✓ [critica] Há registros sobre avaliação de jornalistas musicais que mencionam o grupo The Clash?
+    3. ✓ [critica] Que dados ajudam a estudar avaliação de jornalistas musicais em conteúdos sobre o grupo The Clash?
+    4. ✓ [critica] O que se pode pesquisar sobre avaliação de jornalistas musicais quando o tema é a banda Sepultura?
+    5. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar a trajetória da banda Foo Fighters?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar The Clash?
+    2. ✓ [critica] Há registros sobre avaliação de jornalistas musicais que mencionam o grupo The Clash?
+    3. ✓ [critica] Que dados ajudam a estudar avaliação de jornalistas musicais em conteúdos sobre o grupo The Clash?
+    4. ✓ [critica] O que se pode pesquisar sobre avaliação de jornalistas musicais quando o tema é a banda Sepultura?
+    5. ✓ [critica] Que fontes tratam de avaliação de jornalistas musicais ao abordar a trajetória da banda Foo Fighters?
+
+[S07] popularidade dos discos medida pelo mercado
+Tópico esperado: vendas
+  BM25
+    1. × [gravacao] Como localizar referências de produção dos discos que citem o grupo Nirvana?
+    2. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    3. × [gravacao] Há registros sobre produção dos discos que mencionam o grupo AC/DC?
+    4. × [gravacao] Onde localizar referências de produção dos discos sobre a banda Os Mutantes?
+    5. × [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+  bge-m3
+    1. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    2. ✓ [vendas] O que se pode pesquisar sobre vendas de discos quando o tema é a trajetória da banda Sepultura?
+    3. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    4. × [publico] O que se pode pesquisar sobre público e os fãs quando o tema é Metallica?
+    5. ✓ [vendas] Que perguntas podem orientar uma pesquisa de vendas de discos sobre o conjunto musical The Beatles?
+  RRF BM25+bge-m3 (k=60)
+    1. × [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    2. ✓ [vendas] Que informações existem sobre a banda Metallica no assunto vendas de discos?
+    3. ✓ [vendas] Onde localizar referências de vendas de discos sobre Led Zeppelin?
+    4. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    5. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. × [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    2. × [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre Queen?
+    3. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    4. × [critica] Que perguntas podem orientar uma pesquisa de resenhas dos discos sobre a banda Pink Floyd?
+    5. × [gravacao] Como localizar referências de produção dos discos que citem o grupo Nirvana?
+  minilm
+    1. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    2. ✓ [vendas] Que perguntas podem orientar uma pesquisa de números de vendas da discografia sobre a banda Barão Vermelho?
+    3. ✓ [vendas] O que se pode pesquisar sobre vendas de discos quando o tema é a trajetória da banda Sepultura?
+    4. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    5. ✓ [vendas] O que se pode pesquisar sobre números de vendas da discografia quando o tema é a trajetória da banda Radiohead?
+  RRF BM25+minilm (k=60)
+    1. × [gravacao] Há registros sobre produção dos discos que mencionam o grupo AC/DC?
+    2. ✓ [vendas] Que fontes tratam de vendas de discos ao abordar U2?
+    3. ✓ [vendas] Que dados ajudam a estudar vendas de discos em conteúdos sobre o grupo Os Paralamas do Sucesso?
+    4. ✓ [vendas] O que se pode pesquisar sobre vendas de discos quando o tema é a trajetória da banda Sepultura?
+    5. ✓ [vendas] Que perguntas podem orientar uma pesquisa de vendas de discos sobre o conjunto musical The Beatles?
+  Média BM25+minilm (0,5/0,5)
+    1. × [gravacao] Há registros sobre produção dos discos que mencionam o grupo AC/DC?
+    2. × [gravacao] Que informações existem sobre o grupo Metallica no assunto produção dos discos?
+    3. × [gravacao] Que fontes tratam de produção dos discos ao abordar a banda Legião Urbana?
+    4. × [critica] Que dados ajudam a estudar resenhas dos discos em conteúdos sobre a banda Black Sabbath?
+    5. × [critica] Onde localizar referências de resenhas dos discos sobre o conjunto musical Metallica?
+
+[S08] grupos que fazem parte da história musical do Brasil
+Tópico esperado: rock_brasileiro
+  BM25
+    1. × [influencia] Há registros sobre contribuição para a história do rock que mencionam U2?
+    2. × [influencia] Como localizar referências de contribuição para a história do rock que citem a trajetória da banda Radiohead?
+    3. × [influencia] Como localizar referências de contribuição para a história do rock que citem a trajetória da banda Sepultura?
+    4. × [influencia] Que informações existem sobre The Beatles no assunto contribuição para a história do rock?
+    5. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+  bge-m3
+    1. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    2. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o conjunto musical Metallica?
+    3. ✓ [rock_brasileiro] Que fontes tratam de bandas brasileiras de rock ao abordar a banda Led Zeppelin?
+    4. ✓ [rock_brasileiro] Que informações existem sobre o grupo U2 no assunto bandas brasileiras de rock?
+    5. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+  RRF BM25+bge-m3 (k=60)
+    1. ✓ [rock_brasileiro] Quais aspectos de cena de rock no Brasil aparecem em materiais sobre o conjunto musical Led Zeppelin?
+    2. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+    3. ✓ [rock_brasileiro] Que informações existem sobre a trajetória da banda The Clash no assunto cena de rock no Brasil?
+    4. ✓ [rock_brasileiro] Que dados ajudam a estudar cena de rock no Brasil em conteúdos sobre o grupo Led Zeppelin?
+    5. ✓ [rock_brasileiro] Como localizar referências de cena de rock no Brasil que citem Sepultura?
+  Média BM25+bge-m3 (0,5/0,5)
+    1. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Que informações existem sobre a trajetória da banda The Clash no assunto cena de rock no Brasil?
+    3. ✓ [rock_brasileiro] Quais aspectos de cena de rock no Brasil aparecem em materiais sobre o conjunto musical Led Zeppelin?
+    4. ✓ [rock_brasileiro] Como localizar referências de cena de rock no Brasil que citem Sepultura?
+    5. × [influencia] Como localizar referências de contribuição para a história do rock que citem a trajetória da banda Sepultura?
+  minilm
+    1. ✓ [rock_brasileiro] Há registros sobre bandas brasileiras de rock que mencionam o grupo Queen?
+    2. ✓ [rock_brasileiro] Como localizar referências de rock brasileiro que citem a trajetória da banda Os Paralamas do Sucesso?
+    3. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+    4. ✓ [rock_brasileiro] Onde localizar referências de bandas brasileiras de rock sobre a banda Sepultura?
+    5. ✓ [rock_brasileiro] Que perguntas podem orientar uma pesquisa de bandas brasileiras de rock sobre a banda The Clash?
+  RRF BM25+minilm (k=60)
+    1. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Que informações existem sobre a trajetória da banda The Clash no assunto cena de rock no Brasil?
+    3. ✓ [rock_brasileiro] Que perguntas podem orientar uma pesquisa de cena de rock no Brasil sobre a banda Titãs?
+    4. ✓ [rock_brasileiro] Como localizar referências de cena de rock no Brasil que citem Sepultura?
+    5. ✓ [rock_brasileiro] Que dados ajudam a estudar cena de rock no Brasil em conteúdos sobre a banda Nirvana?
+  Média BM25+minilm (0,5/0,5)
+    1. ✓ [rock_brasileiro] O que se pode pesquisar sobre cena de rock no Brasil quando o tema é a trajetória da banda Os Paralamas do Sucesso?
+    2. ✓ [rock_brasileiro] Que informações existem sobre a trajetória da banda The Clash no assunto cena de rock no Brasil?
+    3. ✓ [rock_brasileiro] Como localizar referências de cena de rock no Brasil que citem Sepultura?
+    4. ✓ [rock_brasileiro] Que perguntas podem orientar uma pesquisa de cena de rock no Brasil sobre a banda Titãs?
+    5. ✓ [rock_brasileiro] Que dados ajudam a estudar cena de rock no Brasil em conteúdos sobre a banda Nirvana?

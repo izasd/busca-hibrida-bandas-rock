@@ -1,0 +1,98 @@
+[
+  {
+    "id": "L01",
+    "tipo": "literal",
+    "topico": "formacao",
+    "consulta": "formação e origem da banda"
+  },
+  {
+    "id": "L02",
+    "tipo": "literal",
+    "topico": "vocalista",
+    "consulta": "vocalista e vocais do grupo"
+  },
+  {
+    "id": "L03",
+    "tipo": "literal",
+    "topico": "album_estreia",
+    "consulta": "álbum de estreia da banda"
+  },
+  {
+    "id": "L04",
+    "tipo": "literal",
+    "topico": "turne",
+    "consulta": "turnê e apresentações da banda"
+  },
+  {
+    "id": "L05",
+    "tipo": "literal",
+    "topico": "festival",
+    "consulta": "festivais de música da banda"
+  },
+  {
+    "id": "L06",
+    "tipo": "literal",
+    "topico": "critica",
+    "consulta": "crítica musical e resenhas dos discos"
+  },
+  {
+    "id": "L07",
+    "tipo": "literal",
+    "topico": "vendas",
+    "consulta": "vendas e certificações de discos"
+  },
+  {
+    "id": "L08",
+    "tipo": "literal",
+    "topico": "rock_brasileiro",
+    "consulta": "bandas do rock brasileiro"
+  },
+  {
+    "id": "S01",
+    "tipo": "semantica",
+    "topico": "formacao",
+    "consulta": "como os integrantes se conheceram e iniciaram o grupo"
+  },
+  {
+    "id": "S02",
+    "tipo": "semantica",
+    "topico": "vocalista",
+    "consulta": "quem interpreta as canções e lidera a voz"
+  },
+  {
+    "id": "S03",
+    "tipo": "semantica",
+    "topico": "album_estreia",
+    "consulta": "qual foi o primeiro trabalho longo lançado pelo conjunto"
+  },
+  {
+    "id": "S04",
+    "tipo": "semantica",
+    "topico": "turne",
+    "consulta": "viagens para tocar em cidades diferentes"
+  },
+  {
+    "id": "S05",
+    "tipo": "semantica",
+    "topico": "festival",
+    "consulta": "eventos musicais com vários artistas no mesmo local"
+  },
+  {
+    "id": "S06",
+    "tipo": "semantica",
+    "topico": "critica",
+    "consulta": "o que jornalistas especializados acharam dos discos"
+  },
+  {
+    "id": "S07",
+    "tipo": "semantica",
+    "topico": "vendas",
+    "consulta": "popularidade dos discos medida pelo mercado"
+  },
+  {
+    "id": "S08",
+    "tipo": "semantica",
+    "topico": "rock_brasileiro",
+    "consulta": "grupos que fazem parte da história musical do Brasil"
+  }
+]
